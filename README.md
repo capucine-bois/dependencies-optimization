@@ -158,7 +158,7 @@ You can also directly open the `**-visualization.html` files
 
 ### `package` : 28.85KB
 
-![image.png](attachment:93e7a30c-9f6c-4e39-aba6-bfab5593c4ae:image.png)
+![image](https://github.com/user-attachments/assets/2b6cddab-a135-4925-bd77-166bf5b48b5d)
 
 Explanation :
 
@@ -172,7 +172,7 @@ Explanation :
 
 ### `package` : 9.02KB
 
-![image.png](attachment:276f1665-3c49-47e3-b252-e261e70b262f:image.png)
+![image](https://github.com/user-attachments/assets/47c0ce63-e97a-492f-aced-dc7e7c0276fa)
 
 Explanation:
 
