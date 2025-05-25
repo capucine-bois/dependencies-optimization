@@ -1,0 +1,14 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "main": "dist/package.mjs",
+  "type": "module",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "shared": "1.0.0"
+  },
+  "devDependencies": {}
+}
