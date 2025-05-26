@@ -24,7 +24,7 @@ This repo demonstrates two setups for library packaging (`shared`) and how it im
 
 ### 1. Install dependencies
 
-From root of each monorepo (`optimized` or `non-optimized`):
+From root of each project (`optimized` or `non-optimized`):
 
 ```bash
 npm install
